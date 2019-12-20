@@ -1,3 +1,1 @@
-var kittens = [] //define your array here
-
-kittens.shift["Milo", "Otis", "Garfield"]
+var kittens = ["Milo", "Otis", "Garfield"]//define your array here
