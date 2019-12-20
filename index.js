@@ -1,3 +1,3 @@
 var kittens = [] //define your array here
 
-kittens.concat["Milo", "Otis", "Garfield"]
+kittens.ahift["Milo", "Otis", "Garfield"]
